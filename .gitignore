@@ -1,6 +1,4 @@
 
-
-
 .minecraft/logs/*
 .minecraft/saves
 .minecraft/versions
@@ -10,3 +8,6 @@
 
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+
+.minecraft/options.txt
+.minecraft/optionsof.txt
