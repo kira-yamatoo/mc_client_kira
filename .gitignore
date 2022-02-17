@@ -11,3 +11,5 @@
 
 .minecraft/options.txt
 .minecraft/optionsof.txt
+
+.minecraft/crash-reports/*
