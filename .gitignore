@@ -1,5 +1,5 @@
 
-.minecraft/logs/*
+.minecraft/logs
 .minecraft/saves
 .minecraft/versions
 .minecraft/config
@@ -12,4 +12,5 @@
 .minecraft/options.txt
 .minecraft/optionsof.txt
 
-.minecraft/crash-reports/*
+.minecraft/crash-reports
+PCL
